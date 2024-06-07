@@ -83,3 +83,4 @@ def main_contacts():
             open_menu()
         else:
             print("Invalid choice. Please try again.")
+
