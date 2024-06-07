@@ -1,5 +1,5 @@
 def update_task() :
-    with open('F:/Code Platton/Day 3/Team_Project_Phone_Terminal/httpsresponse18/tasks.txt', 'w') as taskFile :
+    with open('tasks.txt', 'w') as taskFile :
         newTaskName = input("Write the new name of your task : ");
         newTaskInfo = input("Write your updated task details: ");
         newTaskDate = input("Write new date and time for your task: ");
